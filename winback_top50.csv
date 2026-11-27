@@ -1,0 +1,51 @@
+CustomerID,Recency,Frequency,Monetary,churned,R,F,M,Segment
+16754,373,29,54558.18,1,2,5,5,At Risk - High Value
+13093,276,55,53274.33,1,2,5,5,At Risk - High Value
+17850,373,155,50407.77,1,2,5,5,At Risk - High Value
+13902,633,5,30411.26,1,1,4,5,At Risk - High Value
+12482,577,29,21893.53,1,1,5,5,At Risk - High Value
+15749,236,3,21535.9,1,2,3,5,Lapsing
+15808,307,21,17038.95,1,2,5,5,At Risk - High Value
+13952,218,14,12790.89,1,2,5,5,At Risk - High Value
+13687,439,1,11880.84,1,1,1,5,Other
+14134,383,15,11123.35,1,2,5,5,At Risk - High Value
+18052,565,1,10877.18,1,1,2,5,Lapsing
+15032,257,8,10515.05,1,2,4,5,At Risk - High Value
+17448,498,46,10162.38,1,1,5,5,At Risk - High Value
+12590,212,2,9853.48,1,2,2,5,Lapsing
+14828,197,13,9803.46,1,2,5,5,At Risk - High Value
+14091,655,2,9530.08,1,1,2,5,Lapsing
+14439,320,5,9443.04,1,2,4,5,At Risk - High Value
+17504,207,18,9238.42,1,2,5,5,At Risk - High Value
+17230,265,18,9159.45,1,2,5,5,At Risk - High Value
+14160,611,7,8421.47,1,1,4,5,At Risk - High Value
+13206,401,13,8211,1,2,5,5,At Risk - High Value
+13715,282,17,8108.09,1,2,5,5,At Risk - High Value
+17409,185,10,7793.51,1,3,5,5,Loyal
+18231,193,28,6821.37,1,2,5,5,At Risk - High Value
+14154,240,8,6263.6,1,2,4,5,At Risk - High Value
+13615,319,8,6212.23,1,2,4,5,At Risk - High Value
+13935,597,3,6116.92,1,1,3,5,Lapsing
+12835,428,41,5972.19,1,1,5,5,At Risk - High Value
+14105,240,5,5703.98,1,2,4,5,At Risk - High Value
+14249,411,12,5400.46,1,1,5,5,At Risk - High Value
+14442,205,7,5272.02,1,2,4,5,At Risk - High Value
+12625,212,4,5095.38,1,2,3,5,Lapsing
+15332,367,6,4892.68,1,2,4,5,At Risk - High Value
+13044,292,11,4818.35,1,2,5,5,At Risk - High Value
+14081,303,10,4747.52,1,2,5,5,At Risk - High Value
+13659,206,12,4706.43,1,2,5,5,At Risk - High Value
+17829,299,5,4680.42,1,2,4,5,At Risk - High Value
+17508,281,8,4546.78,1,2,5,5,At Risk - High Value
+17308,394,2,4511.76,1,2,3,5,Lapsing
+13958,380,8,4504.78,1,2,4,5,At Risk - High Value
+14625,197,11,4429.18,1,2,5,5,At Risk - High Value
+16546,291,5,4421.04,1,2,4,5,At Risk - High Value
+17138,276,7,4417.27,1,2,4,5,At Risk - High Value
+14648,417,15,4378,1,1,5,5,At Risk - High Value
+16125,368,14,4292.35,1,2,5,5,At Risk - High Value
+16118,653,1,4255.43,1,1,1,5,Other
+14685,577,8,4241.16,1,1,4,5,At Risk - High Value
+16072,289,4,4180.09,1,2,4,5,At Risk - High Value
+16749,592,2,4157.88,1,1,2,5,Lapsing
+15633,510,13,4156.91,1,1,5,5,At Risk - High Value

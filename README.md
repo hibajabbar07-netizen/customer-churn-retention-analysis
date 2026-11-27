@@ -1,7 +1,9 @@
 # Customer Churn and Retention Analysis: Online Retail
 
 **Live dashboard:** https://public.tableau.com/views/CustomerChurnandRetentionAnalysis-OnlineRetail/Dashboard1
+
 ![Dashboard](Dashboard.png)
+
 ## Business problem
 
 An online gift retailer is losing repeat customers. Which customers have stopped buying, which segments are most valuable, and who should the business try to win back first?
